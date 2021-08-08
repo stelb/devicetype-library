@@ -1,0 +1,15 @@
+---
+# Quick Hack
+manufacturer: Intel
+model: NUC
+slug: nuc
+part_number: nuc
+is_full_depth: false
+u_height: 1
+interfaces:
+  - name: 'eno1'
+    type: 1000base-t
+power-ports:
+  - name: Power
+    type: dc-terminal
+
