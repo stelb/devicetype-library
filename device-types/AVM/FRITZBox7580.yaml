@@ -1,0 +1,21 @@
+---
+manufacturer: AVM
+model: Fritz!Box 7580
+slug: fritzbox-7580
+part_number: fritzbox-7580
+is_full_depth: false
+u_height: 1
+interfaces:
+  - name: 'LAN 1'
+    type: 1000base-t
+  - name: 'LAN 2'
+    type: 1000base-t
+  - name: 'LAN 3'
+    type: 1000base-t
+  - name: 'LAN 4'
+    type: 1000base-t
+  - name: 'WAN 5'
+    type: 1000base-t
+power-ports:
+  - name: Power
+    type: dc-terminal
