@@ -1,0 +1,18 @@
+---
+--- Quick Hack
+manufacturer: PC Engines
+model: APU
+slug: apu
+part_number: apu
+is_full_depth: false
+u_height: 1
+interfaces:
+  - name: 'lagg0'
+    type: 1000base-t
+  - name: 'lagg1'
+    type: 1000base-t
+  - name: 'lagg2'
+    type: 1000base-t
+power-ports:
+  - name: Power
+    type: dc-terminal
