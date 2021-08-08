@@ -1,8 +1,8 @@
 ---
 manufacturer: Zyxel
-model: GS1900-8
-slug: gs1900-8
-part_number: gs1900-8
+model: GS1900-8HP
+slug: gs1900-8hp
+part_number: gs1900-8hp
 is_full_depth: false
 u_height: 1
 interfaces:
